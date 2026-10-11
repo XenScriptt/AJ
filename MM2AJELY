@@ -84,7 +84,7 @@ local function v21()
 end
 
 getgenv().JOBID = v21()
-print("[MM2 AJ] Waiting for JobID capture...")
+print("[MM2 BURAT] Waiting for JobID capture...")
 
 while not getgenv().JOBID do
 	task.wait()
