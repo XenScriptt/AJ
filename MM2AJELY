@@ -443,7 +443,7 @@ local function createTextLabel(p7, p8, p9, p10, p11)
 	return TextLabel
 end
 
-createTextLabel("🔪 MM2 AUTO JOINER v3.1", 5, 13, Color3.fromRGB(255, 80, 80), true)
+createTextLabel("🔪 MM2 BURAT POGI SEN v3.1", 5, 13, Color3.fromRGB(255, 80, 80), true)
 createTextLabel("User: " .. Name, 23, 11, Color3.fromRGB(180, 180, 200))
 
 local v77 = createTextLabel("Status: Starting...", 41, 12)
